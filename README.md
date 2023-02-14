@@ -6,3 +6,6 @@ A página de cadastro possui um sistema de banco de dados simples onde após a p
 enviados para um gmail respectivo do proprio site ( receitas.mammamia@gmail.com ) segue uma print mostrando como chega os dados recebidos pelo formulario:
 
 https://prnt.sc/-mNa0UlVXF-v
+
+
+Linguagens usadas: HTML5, CSS3, JavaScript e BootStrap
